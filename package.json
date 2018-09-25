@@ -33,7 +33,7 @@
     "chai": "^4.1.2",
     "cors": "^2.8.4",
     "express-jwt": "^5.3.1",
-    "fastify": "^1.9.0",
+    "fastify": "^1.12.1",
     "fastify-reply-from": "^0.5.1",
     "helmet": "^3.13.0",
     "mocha": "^5.2.0",
